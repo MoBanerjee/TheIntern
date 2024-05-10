@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Introduction to Astro",
+      "image": "https://juno.build/img/cloud.svg",
+      "description": "Astro is a new static site generator that makes it easy to build fast, content-focused websites.",
+      "url": "https://docs.astro.build/en/getting-started/"
+    },
+    {
+      "title": "Tailwind CSS: A Utility-First CSS Framework",
+      "image": "https://juno.build/img/launch.png",
+      "description": "Tailwind CSS is a utility-first CSS framework that makes it easy to build responsive and customizable user interfaces.",
+      "url": "https://tailwindcss.com/docs/installation"
+    },
+    {
+      "title": "The Benefits of Static Site Generation",
+      "image": "https://juno.build/img/moon.svg",
+      "description": "Static site generation offers several benefits, including improved performance, better security, and easier deployment.",
+      "url": "https://www.netlify.com/blog/2016/05/02/top-ten-reasons-the-static-website-is-back/"
+    },
+    {
+      "title": "Introduction to Astro",
+      "image": "https://juno.build/img/illustration.svg",
+      "description": "Astro is a new static site generator that makes it easy to build fast, content-focused websites.",
+      "url": "https://docs.astro.build/en/getting-started/"
+    }
+  ]
